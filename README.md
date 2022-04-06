@@ -5,8 +5,15 @@ Home {Contact list fetched from firebase from all the users}
 Crud {Update Profile,Add to contact to firebase under UID}
 
 
+default login cred {
 
+email: testing@gmail.com
+pass : 123456
 
+email: varunfl@cupidknot.com
+pass: 123456
+
+}
 
 
 ## Cupid_task_flutter:
